@@ -1,3 +1,6 @@
+Learn from youtube: codecasterth
+https://www.youtube.com/watch?v=wKARwTVHuP4&index=3&list=PL5EZrhJbkDFzJ_CvBwFZ8NXW6pexoTqWa
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
