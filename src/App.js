@@ -10,7 +10,7 @@ class App extends Component {
       
       <div>
         <Header/>
-        <Header/>
+        <Header currentUser="Ake" isLoggedIn = {true}/>
         <div> Hello   </div>
         <Footer/>
       </div>
